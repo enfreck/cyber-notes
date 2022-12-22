@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "a603f8d0509093a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "34c5111cdf4f4361",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fd8a7e72d48f804",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basics/nmap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db06179636433dbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "181ad2b4cc3cb56c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75ce14bdcf92ea68",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6bcf05bf1373b853",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8295262ecfe78d67",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8655698bf85442bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb4d98d8e97323af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f1e3d581c3c8cb5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Basics/nmap.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3fa978d86d2a0e0c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Basics/nmap.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aa52269eb81757cd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "401628b66c87a6d7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Basics/nmap.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8fd8a7e72d48f804",
+  "lastOpenFiles": [
+    "Basics.md"
+  ]
+}
