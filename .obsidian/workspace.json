@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basics/nmap.md",
+                "file": "Network Security/Terminal Commands/nmap.md",
                 "mode": "preview",
                 "source": false
               }
@@ -37,14 +37,158 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basics/nmap.md",
+                "file": "Network Security/Terminal Commands/nmap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d5aa98911cccd4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network Security/Terminal Commands/dig.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c47e6ce227f9924a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network Security/Terminal Commands/traceroute.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8312df1f4775198a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network Security/Terminal Commands/man.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f1ffd8e44fadf39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network Security/Terminal Commands/whois.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f12018eadb9cf43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network Security/Wireshark/TCP Streams.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c56c44712e5db42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network Security/Wireshark/Filters.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8935cb70a10b5951",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reverse Engineering/Ghidra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd3dabdaa65aad18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Website Security/SQL Injection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06b6443cea460124",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Website Security/SQL Injection.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a92979e01c367c0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network Security/Terminal Commands/ftp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a7e2a7f7265e696",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network Security/Terminal Commands/smbclient.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f588f60cd8abf75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reconnaissance/Basic Terminal Commands/exiftool.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -110,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics/nmap.md",
+                "file": "Reconnaissance/Basic Terminal Commands/exiftool.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basics/nmap.md",
+                "file": "Reconnaissance/Basic Terminal Commands/exiftool.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basics/nmap.md"
+                "file": "Reconnaissance/Basic Terminal Commands/exiftool.md"
               }
             }
           }
@@ -161,17 +305,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "da232cd7da013f8f",
+  "active": "8f588f60cd8abf75",
   "lastOpenFiles": [
-    "HackTheBox/Starting.md",
-    "Jargon.md",
-    "Images/StartingPoint.png",
-    "Pasted image 20221225134620.png",
-    "Images/HTB_navbar.png",
-    "Untitled.md",
-    "Basics/nmap.md",
-    "Resources/Nmap-CookBook.pdf",
-    "Jekyll Setup.md",
-    "Nmap-CookBook.pdf"
+    "Network Security/Terminal Commands/smbclient.md",
+    "Network Security/Terminal Commands/ftp.md",
+    "Reverse Engineering/Ghidra.md",
+    "Website Security/Dirbuster.md",
+    "Website Security/SQL Injection.md",
+    "Network Security/Terminal Commands/dig.md",
+    "Network Security/Terminal Commands/man.md",
+    "Network Security/Terminal Commands/nmap.md",
+    "Network Security/Terminal Commands/ping.md",
+    "Network Security/Terminal Commands/whois.md"
   ]
 }
