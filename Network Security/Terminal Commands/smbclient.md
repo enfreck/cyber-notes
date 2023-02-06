@@ -15,3 +15,6 @@ Type `exit` to quit
 Copies a file from the share to your computer
 
 ![](../../Images/smbget.png)
+
+### smbget -R smb://<ip\>/anonymous
+Recersively download SMB share

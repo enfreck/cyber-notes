@@ -8,163 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ef47313749e9ad75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network Security/Terminal Commands/nmap.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa392865c2f0b5f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HackTheBox/Starting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da232cd7da013f8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network Security/Terminal Commands/nmap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d5aa98911cccd4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network Security/Terminal Commands/dig.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c47e6ce227f9924a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network Security/Terminal Commands/traceroute.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8312df1f4775198a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network Security/Terminal Commands/man.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f1ffd8e44fadf39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network Security/Terminal Commands/whois.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f12018eadb9cf43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network Security/Wireshark/TCP Streams.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c56c44712e5db42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network Security/Wireshark/Filters.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8935cb70a10b5951",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reverse Engineering/Ghidra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd3dabdaa65aad18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Website Security/SQL Injection.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06b6443cea460124",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Website Security/SQL Injection.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a92979e01c367c0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network Security/Terminal Commands/ftp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a7e2a7f7265e696",
+            "id": "04a03d96948c9889",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -176,55 +20,103 @@
             }
           },
           {
-            "id": "8f588f60cd8abf75",
+            "id": "793370d494132bac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reconnaissance/Basic Terminal Commands/exiftool.md",
+                "file": "Network Security/Lessons/rpcbind.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fdec92475a2979db",
+            "id": "3379ef8356a75d84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reverse Engineering/gdb.md",
+                "file": "Reverse Engineering/Terminal Commands/hexdump.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6a65f361c6547518",
+            "id": "5494c58e6edd955a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reverse Engineering/gdb.md",
+                "file": "Reverse Engineering/Terminal Commands/strings.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "48ffa2952f25fe32",
+            "id": "0276145921c5986e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reverse Engineering/gdb.md",
+                "file": "Reverse Engineering/Terminal Commands/strings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6298b834d15a9da2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reverse Engineering/Ida.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7189440022262390",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reverse Engineering/Ida.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "731131debea7fa54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reverse Engineering/Terminal Commands/hexdump.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7c68d141548cc72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reverse Engineering/Terminal Commands/strings.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -290,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reverse Engineering/gdb.md",
+                "file": "Reverse Engineering/Terminal Commands/hexdump.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reverse Engineering/gdb.md",
+                "file": "Reverse Engineering/Terminal Commands/hexdump.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reverse Engineering/gdb.md"
+                "file": "Reverse Engineering/Terminal Commands/hexdump.md"
               }
             }
           }
@@ -341,17 +233,27 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "48ffa2952f25fe32",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3379ef8356a75d84",
   "lastOpenFiles": [
-    "Reverse Engineering/gcc.md",
-    "Reverse Engineering/Valgrind.md",
     "Reverse Engineering/gdb.md",
-    "Network Security/Terminal Commands/dig.md",
-    "Network Security/Lessons/TCP and UDP.md",
-    "Network Security/Lessons/DNS.md",
     "Reverse Engineering/Ghidra.md",
-    "Network Security/Terminal Commands/ftp.md",
-    "Reconnaissance/Basic Terminal Commands/exiftool.md",
-    "Network Security/Terminal Commands/smbclient.md"
+    "Reverse Engineering/Ida.md",
+    "Network Security/Terminal Commands/netcat.md",
+    "Images/searchsploit.png",
+    "Reverse Engineering/Terminal Commands/ltrace.md",
+    "Reverse Engineering/Terminal Commands/strings.md",
+    "Reverse Engineering/Terminal Commands/diff.md",
+    "Network Security/Terminal Commands/searchsploit.md",
+    "Network Security/Lessons/rpcbind.md"
   ]
 }
