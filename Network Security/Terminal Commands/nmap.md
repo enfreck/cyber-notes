@@ -32,3 +32,6 @@ The default script scan.  Script scans are typically used to detect vulnerabilit
 By default, before nmap attempts to scan a system for open ports it will first [ping](ping.md) the target to see if it is online. This feature helps save time when scanning as it causes targets that do not respond to be skipped.  This command tells it not to ping first and just go ahead and scan.
 
 ![[../../Images/NmapPN.png|500]]
+
+## nmap \<ip-address\> -v
+Verbose

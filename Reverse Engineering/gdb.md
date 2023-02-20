@@ -43,9 +43,11 @@ Ex. `gcc -o matloff -std=c11 -O0 -Wall -W -ggdb3 matloff.c`   ([gcc](Terminal%20
 	`x/x *0x401000`  Examines memory at address 0x401000 as a hexadecmal integer
 	`x/s $r0`  Examines memory pointed to by the register r0 as a string
 	`x/4x $r0`  Examines 4 bytes of memory pointed to by the register r0 as a hexadecimal integer 
+`info locals`  Show values of local variables currently on the stack
 `quit`  Exit gdb
 `-ex "gcore <file>"` Dump process memory to file  (Ex: -ex "gcore 7-process.core" = Dump process memory to file: 7-process.core)
 `-ex starti <.exe>`  Load process 
+`set disassembly-flavor intel`  Set binary to intel
 
 
 
